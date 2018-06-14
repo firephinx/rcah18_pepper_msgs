@@ -1,0 +1,4 @@
+string screen
+string parameters
+---
+bool success

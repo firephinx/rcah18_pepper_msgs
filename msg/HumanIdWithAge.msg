@@ -1,0 +1,4 @@
+int32 global_human_id
+bool succeeded
+float64 probability
+string age_range

@@ -1,0 +1,2 @@
+int32 global_human_id
+string path_to_image

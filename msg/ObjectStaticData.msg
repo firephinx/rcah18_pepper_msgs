@@ -1,0 +1,17 @@
+uint32 id
+string name
+CategoryStaticData category
+string difficulty 
+string types
+string fruit
+string alcoholic
+string canPour
+string canPourIn
+string canPlaceOn
+string canPlaceIn
+string twoHands
+string location 
+string loc_room
+string color
+uint32 weight
+uint32 size

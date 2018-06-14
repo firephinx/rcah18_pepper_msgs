@@ -1,0 +1,9 @@
+# Define the goal
+string location  
+---
+# Define the result
+bool completed
+---
+# Define a feedback message
+float64 distance_to_goal
+float64 percent_complete
